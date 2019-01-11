@@ -8,7 +8,11 @@ class App extends Component {
       <div className="App">
        <h1 className="title">Keto Project</h1>
        <Navbar/>
+
        <h4></h4>
+
+       <p></p>
+
       </div>
     );
   }
