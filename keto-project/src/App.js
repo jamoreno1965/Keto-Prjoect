@@ -11,6 +11,7 @@ class App extends Component {
        <Navbar/>
        <Route path='/' component={Home}/>     
       </div>
+      <p>asdfswfdasd</p>
       </BrowserRouter>
     );
   }
