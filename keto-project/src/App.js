@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
        <h1 className="title">Keto Project</h1>
-       <Navbar/>
+       <Navbar />
 
        <h4></h4>
 
