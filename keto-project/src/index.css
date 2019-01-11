@@ -13,6 +13,7 @@ code {
     monospace;
 }
 
-h1{
+h1.title{
+  text-align: center;
   color: lime;
 }
